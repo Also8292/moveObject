@@ -1,0 +1,22 @@
+#container {
+    width: 900px;
+    height: 500px;
+    margin-left: 15%;
+    background-color: #ececec;
+    position: fixed;
+}
+
+#objet {
+    width: 20px;
+    height: 20px;
+    background-color: #ff0000;
+}
+
+.wall {
+    width: 20px;
+    height: 20px;
+    background-color: #000000;
+    position: fixed;
+    margin-left: 15%;
+}
+
